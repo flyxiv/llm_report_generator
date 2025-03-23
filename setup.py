@@ -3,7 +3,8 @@ from setuptools import find_packages, setup
 _install_requires = [
     'langchain',
     'flask',
-    'pandas'
+    'pandas',
+    'pyyaml'
 ]
 
 _package_excludes = [

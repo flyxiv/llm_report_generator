@@ -1,0 +1,3 @@
+sales_dataset: ./dataset/sales_dataset.csv
+report_example_img_path: ./dataset/report_example.csv
+persist_directory: ./chroma_db
